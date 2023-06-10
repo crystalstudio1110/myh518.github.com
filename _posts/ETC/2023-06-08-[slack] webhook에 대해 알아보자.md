@@ -47,7 +47,7 @@ tags:
 
 ## 2.Webhook
 
-우선 [이곳](https://api.slack.com)으로 접속해 줍니다.
+우선 [api.slack.com](https://api.slack.com)으로 접속해 줍니다.
 
 로그인이 안되어있다면 하시고  
 아래의 이미지와 같이 Your apps를 클릭해 줍니다
